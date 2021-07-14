@@ -17,7 +17,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     RadioButton radio1,radio2,radio3,radio4;
     RadioButton radio_kids , radio_adult;
 
-
+    // 콜라보 수정 테스트
+    
     int danga; //단가
     int count; //수량
     int val_price  = 30000 ; // 선택한 제품의 단가 * 수량
